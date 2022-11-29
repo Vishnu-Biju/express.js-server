@@ -1,0 +1,1 @@
+2022-24-28	14:24:02	19984f92-1d8f-49cf-bd05-31f79ef59dc6	Error: not allowed by CORS
